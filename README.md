@@ -1,12 +1,13 @@
 # Портфолио аналитика данных
 
 Людмила — BI-аналитик
+
 Строю системы отчётности с нуля. Работаю с данными от сбора до визуализации. Самостоятельно нахожу задачи и довожу до результата.  
 
-**Стек**: SQL, Python (pandas), DataLens, PostgreSQL, Excel.  
-**Фокус**: прогнозирование, бюджетирование, анализ рентабельности, дашборды.
-**Резюме**: [открыть на hh.ru](https://hh.ru/resume/c5d4d098ff10c485410039ed1f446f486b674b?print=true)
-**Telegram**: [@Liudmila_sss](https://t.me/Liudmila_sss)
+- **Стек**: SQL, Python (pandas), DataLens, PostgreSQL, Excel.  
+- **Фокус**: прогнозирование, бюджетирование, анализ рентабельности, дашборды.
+- **Резюме**: [открыть на hh.ru](https://hh.ru/resume/c5d4d098ff10c485410039ed1f446f486b674b?print=true)
+- **Telegram**: [@Liudmila_sss](https://t.me/Liudmila_sss)
 
 ---
 
